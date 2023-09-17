@@ -6,6 +6,9 @@ font-family: 'Teko', sans-serif;
 h1{
     color: rgb(0, 0, 0);
 }
+p{
+    font-size: larger;
+}
 
 .col-md-4{
 
@@ -14,7 +17,7 @@ width: 400%;
 
  img{
     width: 50%;
-    border: 6px solid greenyellow;
+    border: 6px solid black;
 }
 
 /* foto del perro */
@@ -24,7 +27,7 @@ width: 400%;
 }
 
 #dog{
-    border: 6px solid red;
+    border: 6px solid black;
 
 }
 @media screen and (max-width: 992px) {
